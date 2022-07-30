@@ -1,4 +1,4 @@
-Version: Pre-Build 0.1.8, 30/07/2022 02:46
+Version: Pre-Build 0.2.0, 30/07/2022 14:46
 ==========
 
 .. image:: https://discord.com/api/guilds/977005233559449630/embed.png
@@ -8,7 +8,14 @@ Version: Pre-Build 0.1.8, 30/07/2022 02:46
 About Project:
 -------------
 
-About Coming Soon!
+This website was inspired by a few questions I found around on different websites of people looking for a basic website for a FiveM server, Well thats what I did over the past few weeks,
+I decided to build this website which is a simple site that even basic coders can understand, I will be bringing more updates out! (Check Future Plans At Bottom for more info on my plans),
+
+Do you have a suggestion? Let me know! 
+
+Main Discord: https://discord.gg/G6BwprQFWa
+Community Discord: https://discord.gg/8hT3yHXB38
+Email: CharleyJ@hamsternetwork.com
 
 Demo Link: Coming Soon!
 
@@ -67,7 +74,7 @@ Gallery Page:
 Links:
 ------
 
-- `Documentation <https://hamsternetwork.com>`_
+- `Documentation (COMING SOON) <https://hamsternetwork.com>`_ 
 - `Official Discord Server <https://discord.gg/G6BwprQFWa>`_
 
 Future Plans:
