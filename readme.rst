@@ -56,6 +56,14 @@ Staff Page:
     :height: 280px
     :width:  456px
     
+Gallery Page:
+--------
+
+.. image:: https://github.com/Coldalliance/FiveM-Website-Template/blob/master/backend/img/GitHubImages/CharleyJ-FiveM-Template-Site-4.png
+    :height: 280px
+    :width:  456px
+  
+  
 Links:
 ------
 
