@@ -13,9 +13,12 @@ I decided to build this website which is a simple site that even basic coders ca
 
 Do you have a suggestion? Let me know! 
 
-Main Discord: https://discord.gg/G6BwprQFWa
-Community Discord: https://discord.gg/8hT3yHXB38
+- `Official Discord Server <https://discord.gg/G6BwprQFWa>`_
+
+- `Community Discord Server <https://discord.gg/8hT3yHXB38>`_ 
+
 Email: CharleyJ@hamsternetwork.com
+
 
 Demo Link: Coming Soon!
 
