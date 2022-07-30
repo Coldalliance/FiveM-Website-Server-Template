@@ -5,6 +5,12 @@ Version: Pre-Build 0.1.8, 30/07/2022 02:46
    :target: https://discord.gg/G6BwprQFWa
    :alt: Discord server invite
    
+About Project:
+-------------
+
+About Coming Soon!
+
+Demo Link: Coming Soon!
 
 Changelog:
 -------------
